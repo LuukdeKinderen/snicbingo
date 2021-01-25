@@ -1,122 +1,75 @@
-'ISS'
-'IIS'
-'Kuipers' (by other speaker or host)
-'Security'
-'(Smart) Blockchain'
-'Big data'
-'IoT/Internet of Things'
-'Privacy issues'
-'Buy my <insert merchandise>'
-'Quantum (computer)'
-'Artificial intelligence/AI'
-'Sustainability/Sustainable'
-'Deforestation'
-'Climate change'
-'Urbanisation'
-'Smart home'
-'Smart city'
-'Revolutionary'
-'Surveillance state'
-'Society 4.0'
-'DDoS'
-'Prototype'
-'Innovation/innovative'
-'Disaster'
-'Drone'
-'Digitalization'
-'5G'
-'China'
-'Trust'
-'Global Challenge'
-'Start up(s)'
-'SpaceX'
-'Facebook'
-'Google'
-'My research'
-'Green energy'
-'You'll never need to do <insert something> again'
-'Self-driving <insert vehicle>'
-'Entrepreneur'
-'Design'
-Bus arrives too late (after 10.00h)
-Bus arrives too early (before 9.00h)
-Had to wake up before 7.00h
-Wrong event name is pronounced
-Wrong location of event is mentioned
-The free bottle is filled with some alcohol
-Talk ends too late
-Talk ends too early
-BVO'tje is bought during the event
-Visitor falls asleep
-Visitor corrects speaker
-Error in the slides
-No meat during lunch/dinner
-Snapchat filter
-Negative posts about the event on social media
-#ResilIT
-Badge-scanner doesn't work
-Gifts with discount
-Gift from Twente University
-Speaker tries to censor a company name
-Speaker promotes his company
-Speaker speaks Dutch
-Dutch in slides
-Announcement in Dutch
-Wrong slide is projected/speaker messes up with slides
-Video played directly on YouTube or web browser
-Presentation not working
-Sound not working (correctly)
-Impossible to hear speaker
-Question about something that was already explained
-Question that starts a discussion
-Alcohol is dropped on the ground
-Broken glass
-Speaker corrects introduction
-Very long (>5 minutes) of applause
-Catchbox ends up on the ground
-Catchbox ends up in a face
-Dunglish
-Inappropiate joke by speaker
-Error on the programme
-Talk with only videos
-Slide with comic from the internet
-Government/law is blamed for something
-Third world country is mentioned
-Live demo
-Speaker tries to give life inspiration
-Any sponsor is mentioned by the host or speaker
-Committee is stressed/runs around
-Speaker talks about things he does with data
-Dutch university is mentioned
-Live social media feed
-Bus is stuck in a traffic jam
-Somebody sneezes too loud
-Somebody gets a call/message during a talk
-Bingo is shouted during a talk
-Goodie bag is lost
-Goodie bag is found
-Company is out of goodies
-Somebody leaves the room during a talk
-Fight during bus trip
-Bus stops on a road blocking traffic
-Impractical goodie bag
-Queue for scanning tickets
-Company forces you to take their goodies
-App not working
-Toilets are dirty
-Money-confetti is thrown around
-Committee is wearing pyjamas
-Person on stage gets personal
-Shouting when a participating university/association is mentioned
-Inappropriate joke
-Self-mockery
-Cameraman/woman in front of stage
-Potentie/fuifje is played
-Not enough lunch/diner
-A talk that should be held at A TED event
-Speaker gets sentimental
-Speaker talks about his own children
-Quote on screen
-Stockphoto
-Speaker adjusts glasses to read own slides
-Slides contain links without URL
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
