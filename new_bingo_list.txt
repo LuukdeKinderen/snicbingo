@@ -1,50 +1,75 @@
-Speaker swears and apologizes
-Participant is promoting something during discussion/question
-Cursor on screen
-Cloud
-Elon Musk
-Scrum
-Agile
-Synergy
-Spelling mistakes in sponsoring
-World domination
-Speaker explains something trivial (for computer science students)
-Speaker burns someone in the audience
-Only white middle-aged men as speakers
-Participant enters the room too late (talk started)
-Machine learning
-Speaker mentions that he was a member of a participating study association
-Way too light slide(s)
-Full screen QR-code in slide
-Selfie in slides
-Speaker does not answer a question
-Speaker flirts with visitor
-Toilets have too low capacity
-Camera falls
-Drink is announced too early
-Host participated in bingo
-Sound too loud
-Speaker wants to have a beer
-Company logo that does not sponsor in slide (bonus for IT-company)
-Speaker is performing a singing or dance act on stage
-Too loud music
-Speaker promotes to destroy something
-Other bingo-developers get salty
-Speaker states very obvious fact
-MobilIT
-Beer is served in bottles
-Stand has been moved during a talk
-Smart
-Flexwerk
-America/VS
-NSA
-Russia
-Speaker too passionate
-Awkward person on stage
-Announcements zijn niet duidelijk verstaanbaar
-Phone falls on the ground
-Bus to Nijmegen departs way too late
-Plassen tijdens de terugreis
-Pepernoten
-Frikandel speciaal
-Speakers of only 1 gender
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
