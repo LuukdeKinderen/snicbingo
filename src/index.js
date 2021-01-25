@@ -21,7 +21,7 @@ const njk = expressNunjucks(app, {
 app.set('views', './views');
 
 // initialize database
-const db = new sqlite.Database('./data/snic.sqlite');
+const db = new sqlite.Database('snic.db');
 db.serialize(() => {
     db.run(
         'CREATE TABLE IF NOT EXISTS cards ' +
